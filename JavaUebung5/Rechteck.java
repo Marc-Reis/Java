@@ -5,4 +5,7 @@ package JavaUebung5;
  */
 public class Rechteck {
 
+    Rechteck(){
+        System.out.println("Hier passiert noch nix");
+    }
 }
