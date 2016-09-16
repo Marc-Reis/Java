@@ -1,7 +1,7 @@
 package JavaUebung5;
 
 /**
- * Created by reisma on 05.09.16.
+ * Created by LK IT
  */
 public class Bruch {
 
